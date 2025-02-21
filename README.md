@@ -5,6 +5,7 @@
 
 ## Шаг № 1 
 Установите библиотеку для python через **CMD**.
+
 **pip install irc requests**
 
 ## Шаг № 2 
